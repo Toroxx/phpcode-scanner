@@ -1,6 +1,8 @@
 # phpcode-scanner
 To help to search code from php files
 
+
+
 Config:
 
 edit scanner.py file_ext and search_type
